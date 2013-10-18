@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gray "[DEBUG] TODO this just calls gcutil and uses Riccardo autocompletion" >&2
+gcutil "$@"
